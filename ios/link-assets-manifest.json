@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Sanomat-Sans-Black.otf",
+      "sha1": "13e0919a6f8a43f485eca558c3d248b7469a864c"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-Bold.otf",
+      "sha1": "dff5d3efd2da542ed72dbb42a268b663581d71a5"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-Hairline.otf",
+      "sha1": "c13574ffbc918268a25a72595befc2e52aab57cb"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-Light.otf",
+      "sha1": "b9b9caf764ff5908b445c60571249aca60a598e2"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-Medium.otf",
+      "sha1": "6f2dab1918f0b79ae89075e9831ee613d975c6fd"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-Regular.otf",
+      "sha1": "77dfc373306770eff08ed6e47ebba0d2f2fde006"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-Thin.otf",
+      "sha1": "3a8b3b99eee887912eb3c008d56bd609f906488b"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-XBold.otf",
+      "sha1": "760b4c90685b611e69459a9712588c0d2675762a"
+    },
+    {
+      "path": "assets/fonts/Sanomat-Sans-XLight.otf",
+      "sha1": "05fe086b987cef9fc7e6b17da943a6c779ff5858"
+    }
+  ]
+}
